@@ -1,0 +1,61 @@
+{profile: {…}}
+    profile:
+    avatar_url: "https://avatars3.githubusercontent.com/u/42847003?v=4"
+    bio: null
+    blog: ""
+    company: null
+    created_at: "2018-08-30T18:13:48Z"
+    email: null
+    events_url: "https://api.github.com/users/eleyjambaro/events{/privacy}"
+    followers: 0
+    followers_url: "https://api.github.com/users/eleyjambaro/followers"
+    following: 0
+    following_url: "https://api.github.com/users/eleyjambaro/following{/other_user}"
+    gists_url: "https://api.github.com/users/eleyjambaro/gists{/gist_id}"
+    gravatar_id: ""
+    hireable: null
+    html_url: "https://github.com/eleyjambaro"
+    id: 42847003
+    location: "Quezon City, PH"
+    login: "eleyjambaro"
+    name: "LA Jambaro"
+    node_id: "MDQ6VXNlcjQyODQ3MDAz"
+    organizations_url: "https://api.github.com/users/eleyjambaro/orgs"
+    public_gists: 0
+    public_repos: 1
+    received_events_url: "https://api.github.com/users/eleyjambaro/received_events"
+    repos_url: "https://api.github.com/users/eleyjambaro/repos"
+    site_admin: false
+    starred_url: "https://api.github.com/users/eleyjambaro/starred{/owner}{/repo}"
+    subscriptions_url: "https://api.github.com/users/eleyjambaro/subscriptions"
+    type: "User"
+    updated_at: "2019-05-20T03:55:39Z"
+    url: "https://api.github.com/users/eleyjambaro"
+__proto__:
+constructor: ƒ Object()
+hasOwnProperty: ƒ hasOwnProperty()
+isPrototypeOf: ƒ isPrototypeOf()
+propertyIsEnumerable: ƒ propertyIsEnumerable()
+toLocaleString: ƒ toLocaleString()
+toString: ƒ toString()
+valueOf: ƒ valueOf()
+__defineGetter__: ƒ __defineGetter__()
+__defineSetter__: ƒ __defineSetter__()
+__lookupGetter__: ƒ __lookupGetter__()
+__lookupSetter__: ƒ __lookupSetter__()
+get __proto__: ƒ __proto__()
+set __proto__: ƒ __proto__()
+__proto__:
+constructor: ƒ Object()
+hasOwnProperty: ƒ hasOwnProperty()
+isPrototypeOf: ƒ isPrototypeOf()
+propertyIsEnumerable: ƒ propertyIsEnumerable()
+toLocaleString: ƒ toLocaleString()
+toString: ƒ toString()
+valueOf: ƒ valueOf()
+__defineGetter__: ƒ __defineGetter__()
+__defineSetter__: ƒ __defineSetter__()
+__lookupGetter__: ƒ __lookupGetter__()
+__lookupSetter__: ƒ __lookupSetter__()
+get __proto__: ƒ __proto__()
+set __proto__: ƒ __proto__()
